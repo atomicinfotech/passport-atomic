@@ -1,5 +1,5 @@
 {
-  "name": "passport-local",
+  "name": "passport-atomic",
   "version": "1.0.0",
   "description": "Local username and password authentication strategy for Passport.",
   "keywords": [
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/atomicinfotech/passport-atomic.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "http://github.com/atomicinfotech/passport-atomic/issues"
   },
   "license": "MIT",
   "licenses": [
